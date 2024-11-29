@@ -26,9 +26,9 @@ Ensure your HTML contains `<input>` elements with a `list` attribute pointing to
   <label for="example-input">Choose an option:</label>
   <input id="example-input" list="example-datalist">
   <datalist id="example-datalist">
-    <option value="Option 1"></option>
-    <option value="Option 2"></option>
-    <option value="Option 3"></option>
+    <option value="Option 1">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
   </datalist>
 </fieldset>
 ```
